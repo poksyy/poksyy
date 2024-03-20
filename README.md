@@ -1,10 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/GRc4S5W/Capa-2.jpg)
 ### Hi there 👋
 #### Dedicated student of Multiplatform Application Development 🧑‍🎓
-
-I'm Pau from Barcelona, Spain. I aspire to become a proficient full-stack developer. Alongside my academic pursuits, I've ventured into various creative projects, including establishing a clothing brand.
-
-- ⚙️ I use: .java, .php, .html, .css, .js, .sql.
 - 🌍 Innovative programmer with a creative edge.
 
 Some tools I used and learned. <br>
