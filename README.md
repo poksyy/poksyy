@@ -7,8 +7,8 @@ I'm Pau from Barcelona, Spain. I aspire to become a proficient full-stack develo
 - ⚙️ I use: .java, .php, .html, .css, .js, .sql.
 - 🌍 Innovative programmer with a creative edge.
 
-Some tools I used and learned.
-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg' alt='css3' height='40'>
+Some tools I used and learned. <br>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg' alt='css3' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg' alt='html5' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg' alt='php' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg' alt='javascript' height='40'>
