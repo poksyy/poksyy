@@ -1,7 +1,8 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/GRc4S5W/Capa-2.jpg)
 ### Hi there 👋
-#### Dedicated student of Multiplatform Application Development 🧑‍🎓
+#### 🧑‍🎓 Dedicated student of Multiplatform Application Development 
 - 🌍 Innovative programmer with a creative edge.
+
 
 Some tools I used and learned. <br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg' alt='css3' height='40'>
