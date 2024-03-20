@@ -15,7 +15,7 @@ Some tools I used and learned.
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg' alt='java' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg' alt='mysql' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg' alt='eclipse' height='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plainl.svg' alt='visualstudiocode' height='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg' alt='visualstudiocode' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg' alt='photoshop' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg' alt='illustrator' height='40'>
 
