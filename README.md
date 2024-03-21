@@ -4,7 +4,7 @@
 - 🌍 Innovative programmer with a creative edge.
 
 
-Some tools I used and learned. <br>
+Some tools I used and learned: <br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg' alt='css3' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg' alt='html5' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg' alt='php' height='40'>
