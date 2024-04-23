@@ -1,8 +1,8 @@
-Hey there! 👋
-🎓 Enthusiastic learner in Multiplatform Application Development
-🌍 Innovative programmer with a creative flair.
-💡 Passionate about problem-solving and exploring new technologies.
-🖥️ Frontend Technologies: <br>
+##Hey there! 👋
+-🎓 Enthusiastic learner in Multiplatform Application Development
+-🌍 Innovative programmer with a creative flair.
+-💡 Passionate about problem-solving and exploring new technologies.
+-🖥️ Frontend Technologies: <br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg' alt='css3' height='30'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg' alt='html5' height='30'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='javascript' height='30'>
