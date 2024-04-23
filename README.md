@@ -18,7 +18,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='visualstudiocode' height='30'>
 
 🎨 Design Tools: <br>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg' alt='photoshop' height='30'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg' alt='illustrator' height='30'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg' alt='photoshop' height='30'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg' alt='illustrator' height='30'>
 
 I use these tools almost daily, though I'm still mastering them. I'm also eager to explore and learn new technologies.
