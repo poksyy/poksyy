@@ -13,6 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,notion)](https://skillicons.dev)
 
 🎨 Design Tools: <br>
-[![My Skills](https://skillicons.dev/icons?i=ph,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)
 
 I use these tools almost daily, though I'm still mastering them. I'm also eager to explore and learn new technologies.
