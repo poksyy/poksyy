@@ -4,7 +4,7 @@
 - 💡 Passionate about problem-solving and exploring new technologies.
 
 🖥️ Frontend Technologies: <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ⚙️ Backend Technologies: <br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt='php' height='45' style='margin-right: 10px;'>
