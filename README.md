@@ -4,9 +4,7 @@
 - 💡 Passionate about problem-solving and exploring new technologies.
 
 🖥️ Frontend Technologies: <br>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg' alt='css3' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='html5' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='javascript' height='45' style='margin-right: 10px;'>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
 
 ⚙️ Backend Technologies: <br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt='php' height='45' style='margin-right: 10px;'>
