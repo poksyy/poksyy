@@ -7,17 +7,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ⚙️ Backend Technologies: <br>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt='php' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='java' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='mysql' height='45' style='margin-right: 10px;'>
+[![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
 🛠️ Development Tools: <br>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg' alt='eclipse' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='visualstudiocode' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg' alt='notion' height='45' style='margin-right: 10px;'>
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,notion)](https://skillicons.dev)
 
 🎨 Design Tools: <br>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg' alt='photoshop' height='45' style='margin-right: 10px;'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg' alt='illustrator' height='45' style='margin-right: 10px;'>
+[![My Skills](https://skillicons.dev/icons?i=ph,ai)](https://skillicons.dev)
 
 I use these tools almost daily, though I'm still mastering them. I'm also eager to explore and learn new technologies.
