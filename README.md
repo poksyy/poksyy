@@ -1,4 +1,4 @@
-<div  align="center"><br />
+<div  align="center"><samp><br />
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hey there! I'm Poksy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 🧑‍🎓 Enthusiastic learner in Multiplatform Application Development. 🧑‍🎓<br /> 
 🎨 Innovative programmer with a creative flair. 🎨<br />
@@ -17,5 +17,5 @@ I use these tools almost daily, though I'm still mastering them. I'm also eager 
 <a href="https://github.com/poksyy/poo_shop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=poksyy&repo=poo_shop&theme=vision-friendly-dark&bg_color=00000000" /></a>ㅤ<a href="https://github.com/krschan/flashfoods"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krschan&repo=flashfoods&theme=vision-friendly-dark&bg_color=00000000" /></a>
 
 <br />
-<br />
+<br /></samp>
 </div>
