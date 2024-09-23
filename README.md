@@ -10,6 +10,7 @@ I use these tools almost daily, though I'm still mastering them. I'm also eager 
 <br /><br />
 <h2>📊 Stats 📊</h2>
   <a href="https://github.com/poksyy/"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=poksyy&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000"></a>
+    <a href="https://github.com/poksyy/"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=poksyy&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=00000000&langs_count=6"></a>
 
 <br />
 <h2>⭐ Top Repositories ⭐</h2><br />
