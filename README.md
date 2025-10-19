@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Poksy
 
-A passionate **Multiplatform Application Developer** who loves crafting creative and efficient solutions.
+A passionate **Developer** who loves crafting creative and efficient solutions.
 
 - 💡 Exploring new technologies & problem-solving.
 - 🎨 Interested in design & user experience.
